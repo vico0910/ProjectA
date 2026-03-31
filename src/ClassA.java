@@ -10,9 +10,9 @@
 public class ClassA {
     public static void printMessage() {
         
-		System.out.println("Hello from Class B!"); 
+		System.out.println("Hello from ClassS!"); 
                 System.out.println("1.2");
-                System.out.println("3.0");
+                System.out.println("6.9");
               
 
     }
